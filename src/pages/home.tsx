@@ -4,9 +4,9 @@ import { StudentHomePage } from "./student-home-page";
 
 export const Home = () => {
   return (
-    <AppLayout>
-      <Sidebar />
+    // <AppLayout>
+    //   <Sidebar />
       <StudentHomePage />
-    </AppLayout>
+    // </AppLayout>
   );
 };
